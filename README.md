@@ -1,5 +1,5 @@
 # ArchPax
-Liste de commande sur les archives et la compression
+Liste de commandes sur les archives et la compression
 
 <h2>Liste des fichiers</h3>
 
